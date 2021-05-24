@@ -1,0 +1,32 @@
+body{
+    background-color:rosybrown;
+    font-family: 'Courier New', Courier, monospace;
+    height:3000px;
+}
+.project_heading{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.project_container{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.project_count{
+    font-size: 72px;
+
+}
+
+.project_button{
+    font-size: 17px;
+}
+
+.project_extra{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    margin:20px;
+}
